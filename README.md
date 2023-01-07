@@ -1,4 +1,4 @@
-# Concise-Arrrow
+# Concise-Arrrow function
 Javascript
 
  Concise Body Arrow Functions
